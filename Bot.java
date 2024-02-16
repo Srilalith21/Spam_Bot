@@ -1,5 +1,3 @@
-package automate;
-
 import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.Toolkit;
@@ -8,7 +6,7 @@ import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
 import java.util.Scanner;
 
-public class Bot{
+public class Main{
 	public static void main(String[] args) throws InterruptedException, AWTException {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Message :- ");
