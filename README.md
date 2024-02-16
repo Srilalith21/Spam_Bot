@@ -1,5 +1,5 @@
 # Spam_Bot
-This is automatic message sender created by java
+This is automatic message sender
 
 -----How To Use----
 import this file in laptop or pc 
