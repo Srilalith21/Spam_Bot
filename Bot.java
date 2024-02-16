@@ -6,7 +6,7 @@ import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
 import java.util.Scanner;
 
-public class Main{
+public class Bot{
 	public static void main(String[] args) throws InterruptedException, AWTException {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Message :- ");
